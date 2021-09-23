@@ -4,7 +4,8 @@
   "description": "",
   "main": "server/server.js",
   "dependencies": {
-    "concurrently": "^6.2.1"
+    "concurrently": "^6.2.1",
+    "graphql": "^15.6.0"
   },
   "devDependencies": {},
   "scripts": {
